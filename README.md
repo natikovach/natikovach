@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **enhancement my hard skills**
 
-- 🌱 I’m currently learning **Software Testing course on Udacity**
-
-- 🤝 I’m looking for help with **my portfolio. You can send me a feedback on my LinkedIn**
-
 - 📫 How to reach me **nati.kovach@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/posts/natikovach_cvjunior-manual-qa-engineeranastasiiakovalova-activity-6977906042407899136-b0-o?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/natikovach_cvjunior-manual-qa-engineeranastasiiakovalova-activity-6977906042407899136-b0-o?utm_source=share&utm_medium=member_desktop)
